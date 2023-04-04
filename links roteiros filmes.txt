@@ -1,0 +1,396 @@
+roteiro_link,filme_nome,tipo_filme
+http://aplauso.imprensaoficial.com.br/edicoes/12.0.813.445/12.0.813.445.pdf,"ANO EM QUE MEUS PAIS SAÍRAM DE FÉRIAS, O",LONGA
+http://aplauso.imprensaoficial.com.br/edicoes/12.0.813.805/12.0.813.805.pdf,"ANTES QUE O MUNDO ACABE",LONGA
+http://www.aindaorangotangos.com/arquivos/ROTEIRO_AINDA_ORANGOTANGOS.PDF,"AINDA ORANGOTANGOS",LONGA
+http://www.roteirodecinema.com.br/roteiros/amarelo_manga.pdf,"AMARELO MANGA",LONGA
+http://www.roteirodecinema.com.br/roteiros/aosespanhoisconfinantes.pdf,"AOS ESPANHÓIS CONFINANTES",LONGA
+http://aplauso.imprensaoficial.com.br/edicoes/12.0.813.562/12.0.813.562.pdf,"BANDIDO DA LUZ VERMELHA, O",LONGA
+http://www.roteirodecinema.com.br/roteiros/baresperan%C3%A7a.pdf,"BAR ESPERANÇA, O ÚLTIMO QUE FECHA",LONGA
+http://aplauso.imprensaoficial.com.br/edicoes/12.0.813.442/12.0.813.442.pdf,"BATISMO DE SANGUE",LONGA
+http://www.roteirodecinema.com.br/roteiros/benditofruto.pdf,"BENDITO FRUTO",LONGA
+http://aplauso.imprensaoficial.com.br/edicoes/12.0.813.054/12.0.813.054.pdf,"BENS CONFISCADOS",LONGA
+http://literal.terra.com.br/rubem_fonseca/bau/pdf/roteirobufo.pdf,"BUFO & SPALLANZANI",LONGA
+http://www.autoresdecinema.com.br/arquivos/CABRA%20CEGA-%20roteiro%207[1].1-%20outubro%202002.doc,"CABRA CEGA",LONGA
+http://aplauso.imprensaoficial.com.br/edicoes/12.0.812.891/12.0.812.891.pdf,"CAÇADOR DE DIAMANTES, O",LONGA
+http://www.autoresdecinema.com.br/arquivos/ocaminhodasnuvens.pdf,"CAMINHO DAS NUVENS, O",LONGA
+http://aplauso.imprensaoficial.com.br/edicoes/12.0.812.943/12.0.812.943.pdf,"CASO DOS IRMÃOS NAVES, O",LONGA
+http://www.webwritersbrasil.com.br/roteiros/carandiru.doc,"CARANDIRU",LONGA
+http://aplauso.imprensaoficial.com.br/edicoes/12.0.813.806/12.0.813.806.pdf,"CARRO DE PAULISTA",LONGA
+http://aplauso.imprensaoficial.com.br/edicoes/12.0.813.105/12.0.813.105.pdf,"CARTOMANTE, A",LONGA
+http://www.roteirodecinema.com.br/roteiros/cerro_do_jarau_final.pdf,"CERRO DO JARAU",LONGA
+http://aplauso.imprensaoficial.com.br/edicoes/12.0.813.501/12.0.813.501.pdf,"CÉU DE SUELY, O",LONGA
+http://aplauso.imprensaoficial.com.br/edicoes/12.0.813.441/12.0.813.441.pdf,"CHEGA DE SAUDADE",LONGA
+http://aplauso.imprensaoficial.com.br/edicoes/12.0.813.483/12.0.813.483.pdf,"CIDADE DOS HOMENS",LONGA
+http://www.amplanet.com.br/trincafilmes/arquivos/roteiroCIPRIANO.pdf,"CIPRIANO",LONGA
+http://www.roteirodecinema.com.br/roteiros/OCircodasQualidadesHumanas.pdf,"CIRCO DAS QUALIDADES HUMANAS, O",LONGA
+http://aplauso.imprensaoficial.com.br/edicoes/12.0.812.978/12.0.812.978.pdf,"COMO FAZER UM FILME DE AMOR",LONGA
+http://www.roteirodecinema.com.br/roteiros/conceicao.pdf,"CONCEIÇÃO - AUTOR BOM É AUTOR MORTO",LONGA
+http://aplauso.imprensaoficial.com.br/edicoes/12.0.813.626/12.0.813.626.pdf,"CONTADOR DE HISTÓRIAS, O",LONGA
+http://www.roteirodecinema.com.br/roteiros/adamadocineshangai.pdf,"DAMA DO CINE SHANGAI, A",LONGA
+http://aplauso.imprensaoficial.com.br/edicoes/12.0.813.089/12.0.813.089.pdf,"DE PASSAGEM",LONGA
+http://aplauso.imprensaoficial.com.br/edicoes/12.0.812.942/12.0.812.942.pdf,"DOIS CÓRREGOS",LONGA
+http://aplauso.imprensaoficial.com.br/edicoes/12.0.813.722/12.0.813.722.pdf,"DORES & AMORES",LONGA
+http://aplauso.imprensaoficial.com.br/edicoes/12.0.813.827/12.0.813.827.pdf,"É PROIBIDO FUMAR",LONGA
+http://aplauso.imprensaoficial.com.br/edicoes/12.0.813.502/12.0.813.502.pdf,"ESTÔMAGO",LONGA
+http://aplauso.imprensaoficial.com.br/edicoes/12.0.813.804/12.0.813.804.pdf,"FELIZ ANO VELHO",LONGA
+http://aplauso.imprensaoficial.com.br/edicoes/12.0.813.645/12.0.813.645.pdf,"FELIZ NATAL",LONGA
+http://aplauso.imprensaoficial.com.br/edicoes/12.0.813.454/12.0.813.454.pdf,"FIM DA LINHA",LONGA
+http://literal.terra.com.br/rubem_fonseca/bau/homemdoano_final.pdf,"HOMEM DO ANO, O",LONGA
+http://www.casacinepoa.com.br/os-filmes/roteiros/o-homem-que-copiava-texto-inicial,"HOMEM QUE COPIAVA, O",LONGA
+http://aplauso.imprensaoficial.com.br/edicoes/12.0.813.094/12.0.813.094.pdf,"HOMEM QUE VIROU SUCO, O",LONGA
+http://www.roteirodecinema.com.br/roteiros/ahoramagica.pdf,"HORA MÁGICA, A",LONGA
+http://www.casacinepoa.com.br/os-filmes/roteiros/houve-uma-vez-dois-ver%C3%B5es-texto-inicial,"HOUVE UMA VEZ DOIS VERÕES",LONGA
+http://www.webwritersbrasil.com.br/roteiros/O_Invasor.doc,"INVASOR, O",LONGA
+http://www.casacinepoa.com.br/index.php?arquivo=filmes_mais&id=213&pagina=55&id_sub=23&id_categoria=22&hash=12345678901234567890123456789012,"INVERNO",LONGA
+http://aplauso.imprensaoficial.com.br/edicoes/12.0.813.803/12.0.813.803.pdf,"JOGO SUBTERRÂNEO",LONGA
+http://joaonunes.com/wp-content/uploads/file/Julgamento-v8.pdf,"JULGAMENTO",LONGA
+http://www.autoresdecinema.com.br/arquivos/Latitude%20Zero%20-%20Trat.%209%20-%20maio%201999.doc,"LATITIDE ZERO",LONGA
+http://aplauso.imprensaoficial.com.br/edicoes/12.0.813.802/12.0.813.802.pdf,"MELHORES COISAS DO MUNDO, AS",LONGA
+http://www.roteirodecinema.com.br/roteiros/memoriaspostumas.pdf,"MEMÓRIAS PÓSTUMAS",LONGA
+http://cinemabrazil.com.br/roteiroteca/meninas.zip,"MENINAS, AS",LONGA
+http://www.casacinepoa.com.br/os-filmes/roteiros/meu-tio-matou-um-cara-texto-inicial,"MEU TIO MATOU UM CARA",LONGA
+http://aplauso.imprensaoficial.com.br/edicoes/12.0.813.482/12.0.813.482.pdf,"NÃO POR ACASO",LONGA
+http://www.roteirodecinema.com.br/banco/nettoperdesuaalma.htm,"NETTO PERDE SUA ALMA",LONGA
+http://aplauso.imprensaoficial.com.br/edicoes/12.0.813.716/12.0.813.716.pdf,"OLHOS AZUIS",LONGA
+http://aplauso.imprensaoficial.com.br/livro-interna.php?iEdicaoID=187&leia=1,"ONDE ANDARÁ DULCE VEIGA?",LONGA
+http://aplauso.imprensaoficial.com.br/edicoes/12.0.813.249/12.0.813.249.pdf,"QUANTO VALE OU É POR QUILO?",LONGA
+http://www.casacinepoa.com.br/os-filmes/roteiros/sal-de-prata-texto-inicial,"SAL DE PRATA",LONGA
+http://aplauso.imprensaoficial.com.br/livro-interna.php?iEdicaoID=233&leia=1,"SALVE GERAL",LONGA
+http://www.roteirodecinema.com.br/roteiros/se_eu_fosse_voce_roteiro.pdf,"SE EU FOSSE VOCÊ",LONGA
+http://www.joaonunes.com/wp-content/uploads/2007/01/A_SELVA_%28final%29.pdf,"SELVA, A",LONGA
+http://www.roteirodecinema.com.br/roteiros/tolerancia.pdf,"TOLERÂNCIA",LONGA
+http://aplauso.imprensaoficial.com.br/edicoes/12.0.813.226/12.0.813.226.pdf,"ZUZU ANGEL",LONGA
+http://aplauso.imprensaoficial.com.br/edicoes/12.0.813.444/12.0.813.444.pdf,"12 TRABALHOS, OS",LONGA
+http://www.casacinepoa.com.br/os-filmes/roteiros/3-efes,"3 EFES",LONGA
+http://www.roteirodecinema.com.br/aumpassodedeus.pdf,"A UM PASSO DE DEUS",LONGA
+http://www.roteirodecinema.com.br/alohaloca.pdf,"ALOHA LOCA",LONGA
+http://www.roteirodecinema.com.br/nuncadeixedemeolhar.pdf,"NUNCA DEIXE DE ME OLHAR",LONGA
+http://www.roteirodecinema.com.br/sambadeumanovagente.pdf,"SAMBA DE UMA NOVA GENTE",LONGA
+http://www.roteirodecinema.com.br/NemMaisUmCopodeLeite.pdf,"NEM MAIS UM COPO DE LEITE",LONGA
+http://www.roteirodecinema.com.br/Mais_Sete_Dias.pdf,"MAIS SETE DIAS",LONGA
+http://www.roteirodecinema.com.br/cracaboy.pdf,"CRACABOY 3D",LONGA
+http://www.roteirodecinema.com.br/capoeiras.pdf,"OS CAPOEIRAS",LONGA
+http://www.roteirodecinema.com.br/vinganca.pdf,"VINGANÇA",LONGA
+http://www.roteirodecinema.com.br/maninha.pdf,"MANINHA",LONGA
+http://www.roteirodecinema.com.br/banco/bagaco.doc,"BAGAÇO, O",LONGA
+http://www.roteirodecinema.com.br/banco/chefaodotrafico.doc,"CHEFÃO DO TRÁFICO",LONGA
+http://www.roteirodecinema.com.br/cracaboy.pdf,"CRACABOY 3D",LONGA
+http://www.roteirodecinema.com.br/banco/diadefesta.doc,"DIA DE FESTA",LONGA
+http://www.roteirodecinema.com.br/banco/doida.doc,"DOIDA",LONGA
+http://www.roteirodecinema.com.br/banco/esquadraodamorte.rtf,"ESQUADRÃO DA MORTE",LONGA
+http://www.sergiovirgilio.com/felipe.pdf,"FELIPE",LONGA
+http://www.roteirodecinema.com.br/banco/fimdefesta.doc,"FIM DE FESTA",LONGA
+http://www.roteirodecinema.com.br/Forte_das_Almas-Roteiro.pdf,"FORTE DAS ALMAS ",LONGA
+http://docs.google.com/View?docid=dc75nkjp_0jcxd6rgt,"HISTÓRIAS NORMAIS",LONGA
+http://www.roteirodecinema.com.br/banco/impactodeacao.rtf,"IMPACTO DE AÇÃO",LONGA
+http://www.roteirodecinema.com.br/roteiros/asincriveisetenebrosasviagensdeluci.pdf,"INCRÍVEIS E TENEBROSAS VIAGENS DE LUCI, AS",LONGA
+http://www.roteirodecinema.com.br/banco/jovita2.pdf,"JOVITA",LONGA
+http://www.roteirodecinema.com.br/roteiros/mascaras.pdf?docid=dc75nkjp_0jcxd6rgt,"MÁSCARAS",LONGA
+http://www.roteirodecinema.com.br/roteiros/Mais_Sete_Dias.pdf,"MAIS SETE DIAS",LONGA
+http://www.roteirodecinema.com.br/roteiros/maninha.pdf,"MANINHA",LONGA
+http://www.roteirodecinema.com.br/roteiros/NemMaisUmCopodeLeite.pdf,"NEM MAIS UM COPO DE LEITE",LONGA
+http://www.roteirodecinema.com.br/roteiros/ninguem_esta_ferido.pdf,"NINGUÉM ESTÁ FERIDO",LONGA
+http://www.roteirodecinema.com.br/roteiros/nuncadeixedemeolhar.pdf,"NUNCA DEIXE DE ME OLHAR",LONGA
+http://www.roteirodecinema.com.br/roteiros/perversidade.pdf,"PERVERSIDADE",LONGA
+http://www.roteirodecinema.com.br/roteiros/o_prenuncio_do_camaleao.pdf,"PRENÚNICO DO CAMALEÃO, O",LONGA
+http://www.roteirodecinema.com.br/banco/poramor.doc,"POR AMOR ",LONGA
+http://www.roteirodecinema.com.br/banco/porviastortas.doc,"POR VIAS TORTAS",LONGA
+http://www.roteirodecinema.com.br/roteiros/quando_a_lua_traiu_o_sol.pdf,"QUANDO A LUA TRAIU O SOL ",LONGA
+http://www.roteirodecinema.com.br/banco/quandoasvozes.doc,"QUANDO AS VOZES CHEGAM",LONGA
+http://www.eufabrico.com/wp-content/uploads/2009/10/Reacoes-Adversas-Random-Reactions.pdf,"REAÇÕES  ADVERSAS",LONGA
+http://www.roteirodecinema.com.br/banco/rioapocalipse.rtf,"RIO APOCALIPSE ",LONGA
+http://www.roteirodecinema.com.br/roteiros/roteiroosaltimbancosnofimdomundo.pdf,"SALTIMBANCOS NO FIM DO MUNDO, OS",LONGA
+http://recantodasletras.uol.com.br/e-livros/1155573,"TETO DE VIDRO",LONGA
+http://www.roteirodecinema.com.br/banco/traicao.pdf,"TRAIÇÃO",LONGA
+http://www.roteirodecinema.com.br/banco/tudoaomesmotempo.doc,"TUDO AO MESMO TEMPO AGORA",LONGA
+http://www.roteirodecinema.com.br/roteiros/vinganca.pdf,"VINGANÇA",LONGA
+http://www.vivonumailha.asteriscando.com.br/roteiro.pdf,"VIVO NUMA ILHA",LONGA
+http://www.casacinepoa.com.br/os-filmes/roteiros/decamer%C3%A3o-com%C3%A9dia-do-sexo,"DECAMERÃO - A COMÉDIA DO SEXO",TELEVISÃO
+http://www.roteirodecinema.com.br/roteiros/aventurasdeumbarnabe.doc,"AVENTURAS DE UM BARNABÉ, AS",TELEVISÃO
+http://www.roteirodecinema.com.br/banco/cabine.doc,"CABINE, A",TELEVISÃO
+http://www.casacinepoa.com.br/os-filmes/roteiros/dia-de-visita,"DIA DE VISITA",TELEVISÃO
+http://www.casacinepoa.com.br/os-filmes/roteiros/meia-encarnada-dura-de-sangue,"MEIA ENCARNADA DURA DE SANGUE",TELEVISÃO
+http://www.roteirodecinema.com.br/banco/celebridade01.doc,"CELEBRIDADE CAPÍTULO no.001",TELEVISÃO
+http://www.roteirodecinema.com.br/banco/celebridade110.doc,"CELEBRIDADE CAPÍTULO no.110",TELEVISÃO
+http://www.roteirodecinema.com.br/banco/celebridade158.doc,"CELEBRIDADE CAPÍTULO no. 158",TELEVISÃO
+http://www.roteirodecinema.com.br/banco/celebridade169.doc,"CELEBRIDADE CAPÍTULO no. 169",TELEVISÃO
+http://www.roteirodecinema.com.br/banco/celebridade221A.doc,"CELEBRIDADE CAPÍTULO no. 221",TELEVISÃO
+http://www.casacinepoa.com.br/os-filmes/roteiros/hora-da-estrela,"HORA DA ESTRELA, A",TELEVISÃO
+http://www.casacinepoa.com.br/os-filmes/roteiros/negro-bonif%C3%A1cio,"NEGRO BONIFÁCIO",TELEVISÃO
+http://www.casacinepoa.com.br/os-filmes/roteiros/tr%C3%AAs-palavras-divinas,"TRÊS PALAVRAS DIVINAS, AS",TELEVISÃO
+http://www.casacinepoa.com.br/os-filmes/roteiros/jogos-do-amor-e-do-acaso,"JOGOS DO AMOR E DO ACASO",TELEVISÃO
+http://www.casacinepoa.com.br/os-filmes/roteiros/tudo-num-dia-s%C3%B3,"TUDO NUM DIA SÓ",TELEVISÃO
+http://www.casacinepoa.com.br/os-filmes/roteiros/aeroplanos,"AEROPLANOS",TELEVISÃO
+http://www.casacinepoa.com.br/os-filmes/roteiros/fome-e-vontade-de-comer,"FOME E A VONTADE DE COMER, A",TELEVISÃO
+http://www.casacinepoa.com.br/os-filmes/roteiros/coisa-certa,"COISA CERTA, A",TELEVISÃO
+http://www.casacinepoa.com.br/os-filmes/roteiros/o-bochecha,"BOCHECHA, O",TELEVISÃO
+http://www.casacinepoa.com.br/os-filmes/roteiros/o-%C3%BAltimo-desejo-do-dr-genarinho,"ÚLTIMO DESEJO DO DR. GENARINHO, O",TELEVISÃO
+http://www.casacinepoa.com.br/os-filmes/roteiros/luna-caliente-cap-1,"LUNA CALIENTE CAPÍTULO I",TELEVISÃO
+http://www.casacinepoa.com.br/os-filmes/roteiros/luna-caliente-cap-2,"LUNA CALIENTE CAPÍTULO II",TELEVISÃO
+http://www.casacinepoa.com.br/os-filmes/roteiros/luna-caliente-cap-3,"LUNA CALIENTE CAPÍTULO III",TELEVISÃO
+http://www.casacinepoa.com.br/os-filmes/roteiros/luna-caliente-cap-4,"LUNA CALIENTE CAPÍTULO IV",TELEVISÃO
+http://www.casacinepoa.com.br/os-filmes/roteiros/anchietanos-epis%C3%B3dio,"ANCHIETANOS",TELEVISÃO
+http://www.roteirodecinema.com.br/roteiros/cafe_da_tarde.pdf,"CAFÉ DA TARDE",TELEVISÃO
+http://www.msmidia.com/lais/ColapsoRBS.pdf,"COLAPSO",TELEVISÃO
+http://www.roteirodecinema.com.br/banco/desinibidadograjau.rtf,"DESINIBIDA DO GRAJAÚ, A",TELEVISÃO
+http://www.msmidia.com/lais/Identidade.pdf,"IDENTIDADE",TELEVISÃO
+http://joaonunes.com/wp-content/uploads/file/Max_Circo_final_3.pdf,"INSPECTOR MAX",TELEVISÃO
+http://joaonunes.com/wp-content/uploads/liberdadexxi-ep13.pdf,"LIBERDADE 21",TELEVISÃO
+http://portalliteral.terra.com.br/download_texto_banco/mandrake,"MANDRAKE",TELEVISÃO
+http://www.casacinepoa.com.br/os-filmes/roteiros/o-padeiro-e-revolu%C3%A7%C3%B5es,"PADEIRO E AS REVOLUÇÕES, O",TELEVISÃO
+http://www.casacinepoa.com.br/os-filmes/roteiros/quintana-e-musas,"QUINTANA E AS MUSAS",TELEVISÃO
+http://www.casacinepoa.com.br/os-filmes/roteiros/o-resto-%C3%A9-sil%C3%AAncio,"RESTO É SILÊNCIO, O",TELEVISÃO
+http://www.roteirodecinema.com.br/roteiros/telefonema.pdf,"TELEFONEMA, O",TELEVISÃO
+http://www.corpoealma.blog.br/roteiro.pdf,"CORPO E ALMA",DOCUMENTÁRIO
+http://www.casacinepoa.com.br/index.php?arquivo=filmes_mais&id=313&pagina=40&id_sub=23&id_categoria=22&hash=12345678901234567890123456789012,"FUTURO DA TERRA, O",DOCUMENTÁRIO
+http://www.amplanet.com.br/trincafilmes/arquivos/roteiroH.DOBAL.pdf,"H. DOBAL – UM HOMEM PARTICULAR",DOCUMENTÁRIO
+http://www.casacinepoa.com.br/os-filmes/roteiros/ilha-das-flores-texto-original,"ILHA DAS FLORES",DOCUMENTÁRIO
+http://www.casacinepoa.com.br/os-filmes/roteiros/matadeira,"MATADEIRA, A",DOCUMENTÁRIO
+http://www.ar.art.br/informateca/roteiros/reparacao.zip,"REPARAÇÃO",DOCUMENTÁRIO
+http://www.roteirodecinema.com.br/roteiros/EnquantoFaçoasUnhas.pdf,"ENQUANTO FAÇO AS UNHAS",CURTA
+http://www.roteirodecinema.com.br/roteiros/aguaviva/água_viva14trat_v8_12abr09.pdf,"ÁGUA VIVA",CURTA
+http://www.roteirodecinema.com.br/roteiros/janela_sobre_o_sonho.pdf,"JANELA SOBRE O SONHO",CURTA
+http://www.escolalobodacunha.com.br/imagens/FACASEMPONTAGALINHASEMPe.pdf,"FACA SEM PONTA, GALINHA SEM PÉ",CURTA
+http://www.roteirodecinema.com.br/roteiros/a_invasao_do_alegrete.pdf,"A INVASÃO DO ALEGRETE",CURTA
+http://www.roteirodecinema.com.br/roteiros/novabandeiraparaanacao.pdf,"NOVA BANDEIRA PARA A NAÇÃO",CURTA
+http://www.roteirodecinema.com.br/roteiros/passageiro_obscuro.pdf,"O PASSAGEIRO OBSCURO ",CURTA
+http://www.portacurtas.com.br/dialogos/acorda_roteiro.rtf,"ACORDA",CURTA
+http://www.roteirodecinema.com.br/roteiros/aguaviva/Água_viva14trat_v8_12abr09.pdf,"ÁGUA VIVA",CURTA
+http://www.tabocafilmes.com.br/arquivos/A_Salvacao_da_Viagem_III.doc,"AEROPORTO EM O EMBARQUE",CURTA
+http://www.casacinepoa.com.br/os-filmes/roteiros/angelo-anda-sumido,"ÂNGELO ANDA SUMIDO",CURTA
+http://www.portacurtas.com.br/dialogos/bala_perdida_roteiro.rtf,"BALA PERDIDA",CURTA
+http://www.casacinepoa.com.br/os-filmes/roteiros/barbosa,"BARBOSA",CURTA
+http://www.portacurtas.com.br/dialogos/BMW%20VERMELHO.rtf,"BMW VERMELHA",CURTA
+http://www.portacurtas.com.br/dialogos/O%20Cabe%C3%A7a%20do%20Copacabana%20-%20Roteiro.rtf,"O CABEÇA DE COPACABANA",CURTA
+http://www.roteirodecinema.com.br/roteiros/cafe_da_tarde.pdf,"CAFÉ DA TARDE",CURTA
+http://junioraragaki.blogspot.com/2008/04/roteiro-do-curta-metragem-conversao.html,"CONVERSÃO",CURTA
+http://www.portacurtas.com.br/dialogos/desventuras_roteiro.rtf,"DESVENTURAS DE UM DIA OU A VIDA NÃO É UM COMERCIAL DE MARGARINA",CURTA
+http://www.roteirodecinema.com.br/banco/deusexmachina.doc,"DEUS EX-MACHINA",CURTA
+http://www.roteirodecinema.com.br/roteiros/diante_da_lei.pdf,"DIANTE DA LEI",CURTA
+http://www.portacurtas.com.br/dialogos/DISPAROS.rtf,"DISPAROS",CURTA
+http://www.portacurtas.com.br/dialogos/RoteiroDMNSLN.rtf,"DO MUNDO NADA SE LEVA",CURTA
+http://www.portacurtas.com.br/dialogos/dona_carmela_roteiro.rtf,"DONA CARMELA",CURTA
+http://www.casacinepoa.com.br/os-filmes/roteiros/dona-cristina-perdeu-mem%C3%B3ria,"DONA CRISTINA PERDEU A MEMÓRIA",CURTA
+http://www.roteirodecinema.com.br/banco/dudaacarteira.doc,"DUDA, A CARTEIRA",CURTA
+http://www.roteirodecinema.com.br/banco/elizabeth_vagabunda.pdf,"ELIZABETH VAGABUMDA ",CURTA
+http://www.portacurtas.com.br/dialogos/a_encomenda_roteiro.rtf,"ENCOMENDA, A ",CURTA
+http://www.portacurtas.com.br/dialogos/Roteiro O Encontro.rtf,"ENCONTRO, O",CURTA
+http://www.portacurtas.com.br/dialogos/RoteiroEnsaio.rtf,"ENSAIO",CURTA
+http://www.portacurtas.com.br/dialogos/Roteiro.rtf,"ESCONDE-ESCONDE ",CURTA
+http://www.portacurtas.com.br/dialogos/espera.rtf,"A ESPERA",CURTA
+http://www.escolalobodacunha.com.br/imagens/FACASEMPONTAGALINHASEMPe.pdf,"FACA SEM PONTA, GALINHA SEM PÉ",CURTA
+http://www.casacinepoa.com.br/os-filmes/roteiros/felicidade-%C3%A9-estrada,"FELICIDADE É... ESTRADA, A ",CURTA
+http://www.portacurtas.com.br/dialogos/flores_da_estrada_dialogos.rtf,"FLORES DA ESTRADA ",CURTA
+http://www.portacurtas.com.br/dialogos/gasolina_comum_roteiro.rtf,"GASOLINA COMUM",CURTA
+http://www.portacurtas.com.br/dialogos/a_goiabeira.rtf,"GOIABEIRA, A",CURTA
+http://www.portacurtas.com.br/dialogos/homens.rtf,"HOMENS   AO MAR",CURTA
+http://www.roteirodecinema.com.br/banco/historiareal.doc,"HISTÓRIA REAL",CURTA
+http://www.casacinepoa.com.br/index.php?arquivo=filmes_mais&id=275&pagina=45&id_sub=23,"ILHA DAS FLORES",CURTA
+http://www.uff.br/oinfernosaovoces/roteiro.pdf,"INFERNO SÃO VOCÊS, O",CURTA
+http://www.roteirodecinema.com.br/roteiros/a_invasao_do_alegrete.pdf,"A INVASÃO DO ALEGRETE",CURTA
+http://www.roteirodecinema.com.br/banco/a_job.pdf,"JOB THAT SLOWLY KILLS YOU, A",CURTA
+http://www.portacurtas.com.br/dialogos/dialogo_a_lata.rtf," LATA, A",CURTA
+http://www.portacurtas.com.br/dialogos/leo_1313_roteiro.rtf,"LEO 1313",CURTA
+http://www.portacurtas.com.br/dialogos/Li%E7%F5es%20roteiro.rtf,"LIÇÕES DE QUÍMICA",CURTA
+http://www.casacinepoa.com.br/os-filmes/roteiros/matadeira,"MATADEIRA, A ",CURTA
+http://www.portacurtas.com.br/dialogos/mina_de_fe_roteiro.rtf,"MINA DE FÉ ",CURTA
+http://www.portacurtas.com.br/dialogos/Morango - Roteiro Final.rtf,"MORANGO",CURTA
+http://www.portacurtas.com.br/dialogos/Morte-di%C3%A1logos.rtf,"MORTE",CURTA
+http://www.roteirodecinema.com.br/roteiros/novabandeiraparaanacao.pdf,"NOVA BANDEIRA PARA A NAÇÃO",CURTA
+http://www.roteirodecinema.com.br/roteiros/musas_segundotratamento.pdf,"NOVE MUSAS DA MEMÓRIA,AS",CURTA
+http://www.lgbcom.com.br/images/thepackage.pdf,"PACOTE, O",CURTA
+http://www.roteirodecinema.com.br/roteiros/passageiro_obscuro.pdf,"PASSAGEIRO OBSCURO, O ",CURTA
+file:///C:/Documents%20and%20Settings/Fernando%20Mares/My%20Documents/roteirodecinema.com.br/banco/paranoia.doc,"PARANÓIA",CURTA
+http://www.lgbcom.com.br/images/Paranoia.pdf,"PARANÓIA",CURTA
+http://www.portacurtas.com.br/dialogos/ROT PATO FINAL.rtf,"PATO COM LARANJA ",CURTA
+http://www.portacurtas.com.br/dialogos/Peur_et_abandon.rtf,"PEUR ET ABANDON",CURTA
+http://www.portacurtas.com.br/dialogos/dialogo_pletora_de_irma.rtf,"PLETORA DE IRMA",CURTA
+http://www.lgbcom.com.br/images/primeiroencontro.pdf,"PRIMEIRO ENCONTRO, O ",CURTA
+http://www.portacurtas.com.br/dialogos/Jack_White_roteiro.rtf,"QUERO SER JACK WHITE ",CURTA
+http://www.portacurtas.com.br/dialogos/Roteiro RATOEIRA.rtf,"RATOEIRA",CURTA
+http://www.portacurtas.com.br/dialogos/bemol.rtf,"RÉ BEMOL ",CURTA
+http://www.moss.com.br/moss/retrato/RETRATO_aug_03.pdf,"RETRATO DO ARTISTA, O",CURTA
+http://www.roteirodecinema.com.br/banco/sexoebeethovenII.doc,"SEXO & BEETHOVEN - O REENCONTRO",CURTA
+http://www.portacurtas.com.br/dialogos/sexo_com_objetos_roteiro.rtf,"SEXO COM OBJETOS   INANIMADOS",CURTA
+http://www.lgbcom.com.br/images/mrchan.pdf,"SORVETES CASEIROS DO MR. CHAN",CURTA
+http://www.casacinepoa.com.br/os-filmes/roteiros/trampolim,"TRAMPOLIM",CURTA
+http://www.casacinepoa.com.br/os-filmes/roteiros/tr%C3%AAs-minutos,"TRÊS MINUTOS",CURTA
+http://www.portacurtas.com.br/dialogos/velha_história_roteiro.rtf,"VELHA HISTÓRIA",CURTA
+http://www.casacinepoa.com.br/os-filmes/roteiros/o-velho-do-saco,"VELHO DO SACO, O ",CURTA
+http://www.portacurtas.com.br/dialogos/veludo_e_cacos-de-vidro_dialogos.rtf,"VELUDO & CACOS-DE-VIDRO",CURTA
+http://www.portacurtas.com.br/dialogos/verdades%20e%20ruinas1.rtf,"VERDADES E RUÍNAS EM UM ATO",CURTA
+http://www.orbeproducoes.com.br/downloads/Entre_a_Cruz_e_a_Caldeira%28Roteiro%29.pdf,"ENTRE A CRUZ E A CALDEIRA",CURTA
+http://www.roteirodecinema.com.br/roteiros/picoleboiado.pdf,"PICOLÉ BOIADO",CURTA
+http://www.roteirodecinema.com.br/roteiros/funerariadoceu.pdf,"FUNERÁRIA CAMINHO DO CÉU",CURTA
+http://www.roteirodecinema.com.br/roteiros/oquesobedesce.pdf,"O QUE SOBE, DESCE ",CURTA
+http://www.eufabrico.com/wp-content/uploads/2009/10/3_susana.pdf,"IGUAL  A TRÊS",CURTA
+http://www.eufabrico.com/wp-content/uploads/2009/10/O-QUE-TEM-PRA-HOJE.pdf,"O  QUE TEM PRA HOJE",CURTA
+http://www.roteirodecinema.com.br/roteiros/inverno.pdf,"INVERNO",CURTA
+http://joaonunes.com/wp-content/uploads/o-pedido-v2.pdf,"O PEDIDO",CURTA
+http://www.roteirodecinema.com.br/akasha/akasha.pdf,"AKASHA",CURTA
+file:///C:/Documents%20and%20Settings/Fernando%20Mares/My%20Documents/roteirodecinema.com.br/banco/oamanha.doc,"AMANHÃ, O ",CURTA
+file:///C:/Documents%20and%20Settings/Fernando%20Mares/My%20Documents/roteirodecinema.com.br/banco/amoreseamantes.doc,"AMORES & AMANTES",CURTA
+file:///C:/Documents%20and%20Settings/Fernando%20Mares/My%20Documents/roteirodecinema.com.br/banco/umaarmanamao.doc,"ARMA NA MÃO, UMA",CURTA
+http://www.roteirodecinema.com.br/atolado.pdf,"ATOLADO",CURTA
+http://www.roteirodecinema.com.br/banco/boasnovas_roteiro.doc,"BOAS NOVAS",CURTA
+http://www.roteirodecinema.com.br/a_bruxa.pdf,"BRUXA, A",CURTA
+http://www.roteirodecinema.com.br/calumbi.pdf,"CALUMBI",CURTA
+file:///C:/Documents%20and%20Settings/Fernando%20Mares/My%20Documents/roteirodecinema.com.br/banco/certa_critica.pdf,"CERTA CRÍTICA",CURTA
+file:///C:/Documents%20and%20Settings/Fernando%20Mares/My%20Documents/roteirodecinema.com.br/banco/diaestranho.doc,"DIA ESTRANHO",CURTA
+file:///C:/Documents%20and%20Settings/Fernando%20Mares/My%20Documents/roteirodecinema.com.br/banco/embriagados.doc,"EMBRIAGADOS",CURTA
+http://www.roteirodecinema.com.br/ofardo.pdf,"FARDO, O ",CURTA
+file:///C:/Documents%20and%20Settings/Fernando%20Mares/My%20Documents/roteirodecinema.com.br/banco/festadeaniversario.doc,"FESTA DE ANIVERSÁRIO",CURTA
+http://www.roteirodecinema.com.br/funerariadoceu.pdf,"FUNERÁRIA CAMINHO DO CÉU",CURTA
+file:///C:/Documents%20and%20Settings/Fernando%20Mares/My%20Documents/roteirodecinema.com.br/banco/foisopa2.doc,"FOI SOPA",CURTA
+file:///C:/Documents%20and%20Settings/Fernando%20Mares/My%20Documents/roteirodecinema.com.br/banco/guerrilheiro.doc,"GUERRILHEIRO, O",CURTA
+file:///C:/Documents%20and%20Settings/Fernando%20Mares/My%20Documents/roteirodecinema.com.br/banco/insoluvel.pdf,"INSOLÚVEL",CURTA
+file:///C:/Documents%20and%20Settings/Fernando%20Mares/My%20Documents/roteirodecinema.com.br/banco/jesus_cristo_e_o_senhor.pdf,"JESUS CRISTO É O SENHOR",CURTA
+file:///C:/Documents%20and%20Settings/Fernando%20Mares/My%20Documents/roteirodecinema.com.br/banco/lilith.rtf,"LILITH",CURTA
+file:///C:/Documents%20and%20Settings/Fernando%20Mares/My%20Documents/roteirodecinema.com.br/banco/marilia.doc,"MARÍLIA",CURTA
+file:///C:/Documents%20and%20Settings/Fernando%20Mares/My%20Documents/roteirodecinema.com.br/roteiros/milagre.rtf,"MILAGRE",CURTA
+http://www.roteirodecinema.com.br/misterio_em_ouro_preto.pdf,"MISTÉRIO EM OURO PRETO",CURTA
+file:///C:/Documents%20and%20Settings/Fernando%20Mares/My%20Documents/roteirodecinema.com.br/banco/mundo42.doc,"MUNDO 42",CURTA
+file:///C:/Documents%20and%20Settings/Fernando%20Mares/My%20Documents/roteirodecinema.com.br/banco/o_gravador.pdf,"O GRAVADOR ",CURTA
+http://www.roteirodecinema.com.br/banco/ohdiazinho2.rtf,"ÔH, DIAZINHO!",CURTA
+http://www.roteirodecinema.com.br/olhomagico.pdf,"OLHO MÁGICO ",CURTA
+http://www.roteirodecinema.com.br/banco/pneufurado.doc,"PNEU FURADO",CURTA
+http://www.roteirodecinema.com.br/posesia_erotica.pdf,"POESIA ERÓTICA ",CURTA
+file:///C:/Documents%20and%20Settings/Fernando%20Mares/My%20Documents/roteirodecinema.com.br/banco/ressurreicao.rtf,"RESSUREIÇÃO",CURTA
+file:///C:/Documents%20and%20Settings/Fernando%20Mares/My%20Documents/roteirodecinema.com.br/banco/revelacao_ja.pdf,"REVELAÇÃO JÁ",CURTA
+http://www.roteirodecinema.com.br/sobre_cafajestes.pdf,"SOBRE CAFAJESTES, PIRIGUETES E GOTIQUINHAS ",CURTA
+file:///C:/Documents%20and%20Settings/Fernando%20Mares/My%20Documents/roteirodecinema.com.br/banco/a_taverna.doc,"TAVERNA, A",CURTA
+file:///C:/Documents%20and%20Settings/Fernando%20Mares/My%20Documents/roteirodecinema.com.br/banco/vidadecao.rtf,"VIDA DE CÃO",CURTA
+http://www.roteirodecinema.com.br/ultima_linha.pdf,"ÚLTIMA LINHA",CURTA
+file:///C:/Documents%20and%20Settings/Fernando%20Mares/My%20Documents/roteirodecinema.com.br/banco/80.pdf,"80",CURTA
+http://www.roteirista.com/concurso/vencedores/2009_8/O-homem-no-espelho.pdf,"O  HOMEM NO ESPELHO",CURTA
+http://www.roteirista.com/concurso/vencedores/2009_8/Cego-que-ve-melhor.pdf,"CEGO  QUE VÊ MELHOR",CURTA
+http://www.roteirista.com/concurso/vencedores/2009_8/O-vicio.pdf,"O  VÍCIO",CURTA
+http://www.roteirista.com/concurso/vencedores/2009_8/Postite.pdf,"POSTITE",CURTA
+http://www.roteirista.com/concurso/vencedores/2009_8/vivencias.pdf,"VIVÊNCIAS",CURTA
+http://www.roteirista.com/concurso/vencedores/2005_2/10_Minutos_Antes.pdf,"10 MINUTOS ANTES",CURTA
+http://www.roteirista.com/concurso/vencedores/2007_5/Amo.pdf,"AMO",CURTA
+http://www.roteirista.com/concurso/vencedores/2003_5/mh1.pdf,"ARMISTÍCIO",CURTA
+http://www.roteirista.com/concurso/vencedores/2004_11/blasfemia.pdf,"BLASFÊMIA",CURTA
+http://www.roteirista.com/concurso/vencedores/2007_5/BOAS_INTENCOES.pdf,"BOAS INTENÇÕES",CURTA
+http://www.roteirista.com/concurso/vencedores/2003_8/Brincar_Ser_Livre.pdf,"BRINCAR DE SER LIVRE",CURTA
+http://www.roteirista.com/concurso/vencedores/2005_8/Buracos_e_Feridas.pdf,"BURACOS E FERIDAS",CURTA
+http://www.roteirista.com/concurso/vencedores/2003_1/1_lugar.pdf,"CANA CAIANA",CURTA
+http://www.roteirista.com/concurso/vencedores/2009_8/Cego-que-ve-melhor.pdf,"CEGO  QUE VÊ MELHOR",CURTA
+http://www.roteirista.com/concurso/vencedores/2006_2/Chegando_em_Mulher.pdf,"CHEGANDO EM MULHER",CURTA
+http://www.roteirista.com/concurso/vencedores/2003_11/SERTAO.pdf,"CHUVA DE AMOR NO SERTÃO",CURTA
+http://www.roteirista.com/concurso/vencedores/2006_5/Circulando.pdf,"CIRCULANDO",CURTA
+http://www.roteirista.com/concurso/vencedores/2005_11/colina_dos_pessegueiros.pdf,"COLINA DOS PESSEGUEIROS, A  ",CURTA
+http://www.roteirista.com/concurso/vencedores/2007-11/Contra_Ataque.pdf,"CONTRA ATAQUE",CURTA
+http://www.roteirista.com/concurso/vencedores/2006_2/Contra_o_Tempo.pdf,"CONTRA O TEMPO",CURTA
+http://www.roteirista.com/concurso/vencedores/2007-11/COTIDIANO.pdf,"COTIDIANO",CURTA
+http://www.roteirista.com/concurso/vencedores/2008_8/Curativo.pdf,"O CURATIVO",CURTA
+http://www.roteirista.com/concurso/vencedores/2006_5/De_Segunda_Mao.pdf,"DE SEGUNDA MÃO",CURTA
+http://www.roteirista.com/concurso/vencedores/2004_5/DESENCONTRO.pdf,"DESENCONTRO",CURTA
+http://www.roteirista.com/concurso/vencedores/2003_11/desengano.pdf,"DESENGANO",CURTA
+http://www.roteirista.com/concurso/vencedores/2003_8/DETALHES.pdf,"DETALHES",CURTA
+http://www.roteirista.com/concurso/vencedores/2008_2/UM_DIA_COMO_ESTE.pdf,"DIA COMO ESTE, UM",CURTA
+http://www.roteirista.com/concurso/vencedores/2006_2/dia_de_cao.pdf,"DIA DE CÃO",CURTA
+http://www.roteirista.com/concurso/vencedores/2004_5/diadoamigo.pdf,"DIA DO AMIGO ",CURTA
+http://www.roteirista.com/concurso/vencedores/2007_8/documento.pdf,"DOCUMENTO, O",CURTA
+http://www.roteirista.com/concurso/vencedores/2004_8/dramainimista.pdf,"DRAMA INTIMISTA",CURTA
+http://www.roteirista.com/concurso/vencedores/2003_5/3_lugar.pdf,"É DIA DE JOGO",CURTA
+http://www.roteirista.com/concurso/vencedores/2005_5/e_na_cruz.pdf,"É NA CRUZ!",CURTA
+http://www.roteirista.com/concurso/vencedores/2009_2/ELSE.pdf,"ELSE ",CURTA
+http://www.roteirista.com/concurso/vencedores/2008_2/Embrulho.pdf,"EMBRULHO, O",CURTA
+http://www.roteirista.com/concurso/vencedores/2005_2/ENTRE_QUATRO_PAREDES.pdf,"ENTRE QUATRO PAREDES",CURTA
+http://www.roteirista.com/concurso/vencedores/2004_11/a_escolha.pdf,"ESCOLHA, A",CURTA
+http://www.roteirista.com/concurso/vencedores/2004_8/espantalho.pdf,"ESPANTALHO",CURTA
+http://www.roteirista.com/concurso/vencedores/2005_11/ESPERANCA.pdf,"ESPERANÇA",CURTA
+http://www.roteirista.com/concurso/vencedores/2004_2/estilhacos.pdf,"ESTILHAÇOS",CURTA
+http://www.roteirista.com/concurso/vencedores/2006_11/EU_NAO_QUERO_COMPETIR.pdf,"EU NÃO QUERO COMPETIR",CURTA
+http://www.roteirista.com/concurso/vencedores/2006_11/FEITOS_UM_PARA_O_OUTRO.pdf,"FEITOS UM PARA O OUTRO",CURTA
+http://www.roteirista.com/concurso/vencedores/2007_5/Ferias_na_praia.pdf,"FÉRIAS NA PRAIA",CURTA
+http://www.roteirista.com/concurso/vencedores/2006_5/Filho_Improdigo.pdf,"FILHO IMPRÓDIGO",CURTA
+http://www.roteirista.com/concurso/vencedores/2004_2/fim_de_balada.pdf,"FIM DE BALADA",CURTA
+http://www.roteirista.com/concurso/vencedores/2007_8/GANANCIA.pdf,"GANÂNCIA",CURTA
+http://www.roteirista.com/concurso/vencedores/2008_5/GENESIS.pdf,"GÊNESIS 6:6 ",CURTA
+http://www.roteirista.com/concurso/vencedores/2008_8/Grande_vazio.pdf,"GRANDE VAZIO ",CURTA
+http://www.roteirista.com/concurso/vencedores/2007-11/Guerra_e_nervos.pdf,"GUERRA E NERVOS",CURTA
+http://www.roteirista.com/concurso/vencedores/2008-11/HEROI_OU_BANDIDO.pdf,"HERÓI OU BANDIDO",CURTA
+http://www.roteirista.com/concurso/vencedores/2007-11/O_Homem_Certo.pdf,"HOMEM CERTO, O",CURTA
+http://www.roteirista.com/concurso/vencedores/2009_8/O-homem-no-espelho.pdf,"O  HOMEM NO ESPELHO",CURTA
+http://www.roteirista.com/concurso/vencedores/2008_5/INFINITO_CEU.pdf,"INFINITO CÉU",CURTA
+http://www.roteirista.com/concurso/vencedores/2007_2/JOGO_DA_VIDA.pdf,"JOGO DA VIDA",CURTA
+http://www.roteirista.com/concurso/vencedores/2008-11/johnnymagico.pdf,"JOHNNY-MÁGICO ",CURTA
+http://www.roteirista.com/concurso/vencedores/2007_2/LAETITIA.pdf,"LAETITIA",CURTA
+http://www.roteirista.com/concurso/vencedores/2005_8/O_LAUDO.pdf,"LAUDO, O",CURTA
+http://www.roteirista.com/concurso/vencedores/2003_11/lelete_e_os_turistas.pdf,"LELETE E OS TURISTAS",CURTA
+http://www.roteirista.com/concurso/vencedores/2005_11/maca_nua.pdf,"MAÇÃ NUA, A",CURTA
+http://www.roteirista.com/concurso/vencedores/2009_2/Manhas_Tardes.pdf,"MANHÃS E TARDES",CURTA
+http://www.roteirista.com/concurso/vencedores/2004_11/o_melhor_de_mim.pdf,"MELHOR DE MIM, O",CURTA
+http://www.roteirista.com/concurso/vencedores/2006_8/Melodia_da_Noite.pdf,"MELODIA DA NOITE",CURTA
+http://www.roteirista.com/concurso/vencedores/2004_8/merda.pdf,"MERDA",CURTA
+http://www.roteirista.com/concurso/vencedores/2006_11/MIGRANTES.pdf,"MIGRANTES",CURTA
+http://www.roteirista.com/concurso/vencedores/2006_11/Monstro.pdf,"MONSTRO, O",CURTA
+http://www.roteirista.com/concurso/vencedores/2008-11/MONSTRO_EMBAIXO_DA_CAMA.pdf,"MONSTRO EMBAIXO DA CAMA",CURTA
+http://www.roteirista.com/concurso/vencedores/2007_5/MORANGO.pdf,"MORANGO",CURTA
+http://www.roteirista.com/concurso/vencedores/2006_8/Na_beira_do_mar.pdf,"NA BEIRA DO MAR",CURTA
+http://www.roteirista.com/concurso/vencedores/2009_2/NADA_POR_ACASO.pdf,"NADA É POR ACASO",CURTA
+http://www.roteirista.com/concurso/vencedores/2004_8/necessidades.pdf,"NECESSIDADES",CURTA
+http://www.roteirista.com/concurso/vencedores/2003_11/neurastenia.pdf,"NEURASTENIA",CURTA
+http://www.roteirista.com/concurso/vencedores/2005_2/oi.pdf,"OI",CURTA
+http://www.roteirista.com/concurso/vencedores/2004_2/olhos_de_vidro.pdf,"OLHOS DE VIDRO",CURTA
+http://www.roteirista.com/concurso/vencedores/2008_5/Operator.pdf,"OPERATOR ",CURTA
+http://www.roteirista.com/concurso/vencedores/2004_2/ossos_do_oficio.pdf,"OSSOS DO OFÍCIO",CURTA
+http://www.roteirista.com/concurso/vencedores/2006_8/PAI_EU_SOU.pdf,"PAI, SEU SOU...",CURTA
+http://www.roteirista.com/concurso/vencedores/2005_2/pais_e_filhos.pdf,"PAIS E FILHOS",CURTA
+http://www.roteirista.com/concurso/vencedores/2004_11/palco_iluminado.pdf,"PALCO ILUMINADO",CURTA
+http://www.roteirista.com/concurso/vencedores/2006_11/Pisante.pdf,"PISANTE",CURTA
+http://www.roteirista.com/concurso/vencedores/2005_8/Por_Estar_so.pdf,"POR ESTAR SÓ",CURTA
+http://www.roteirista.com/concurso/vencedores/2006_8/PORTA_ESTREITA.pdf,"PORTA ESTREITA, A",CURTA
+http://www.roteirista.com/concurso/vencedores/2009_8/Postite.pdf,"POSTITE",CURTA
+http://www.roteirista.com/concurso/vencedores/2009_2/Precisa_se_de_mentirosos.pdf,"PRECISA-SE DE MENTIROSOS",CURTA
+http://www.roteirista.com/concurso/vencedores/2005_8/prisioneira.pdf,"PRISIONEIRA",CURTA
+http://www.roteirista.com/concurso/vencedores/2003_8/O_PROFESSOR_CRIME.pdf,"PROFESSOR DO CRIME, O",CURTA
+http://www.roteirista.com/concurso/vencedores/2007_8/QU4DRA.pdf,"QUADRA",CURTA
+http://www.roteirista.com/concurso/vencedores/2005_5/quando_dizer.pdf,"QUANDO DIZER SIM E QUANDO DIZER NÃO ",CURTA
+http://www.roteirista.com/concurso/vencedores/2005_5/Recordar.pdf,"RECORDAR É VIVER",CURTA
+http://www.roteirista.com/concurso/vencedores/2007_5/REENCONTRO.pdf,"REENCONTRO",CURTA
+http://www.roteirista.com/concurso/vencedores/2003_5/2_lugar.pdf,"SECADOR DE CABELO, O",CURTA
+http://www.roteirista.com/concurso/vencedores/2007_2/Segredo_da_Fatima.pdf,"SEGREDO DE FÁTIMA, O",CURTA
+http://www.roteirista.com/concurso/vencedores/2007_8/uma_semana_antigamente.pdf,"SEMANA DE ANTIGAMENTE, UMA",CURTA
+http://www.roteirista.com/concurso/vencedores/2003_1/mencao_honrosa.pdf,"SEMPR'ÁBRIR",CURTA
+http://www.roteirista.com/concurso/vencedores/2004_2/sexo_implicito.pdf,"SEXO IMPLÍCITO",CURTA
+http://www.roteirista.com/concurso/vencedores/2003_1/3_lugar.pdf,"SILÊNCIO",CURTA
+http://www.roteirista.com/concurso/vencedores/2008_8/Sofia.pdf,"SOFIA",CURTA
+http://www.roteirista.com/concurso/vencedores/2008_2/SONHOS_DA_ADOLESCENTE.pdf,"SONHOS DA ADOLESCENTE",CURTA
+http://www.roteirista.com/concurso/vencedores/2005_8/SONHOS.pdf,"SONHOS",CURTA
+http://www.roteirista.com/concurso/vencedores/2007_8/SOROPOSITIVO.pdf,"SOROPOSITIVO",CURTA
+http://www.roteirista.com/concurso/vencedores/2006_5/Sorria.pdf,"SORRIA",CURTA
+http://www.roteirista.com/concurso/vencedores/2003_1/2_lugar.pdf,"TÚNEL, O",CURTA
+http://www.roteirista.com/concurso/vencedores/2004_5/velho.pdf,"VELHO, O",CURTA
+http://www.roteirista.com/concurso/vencedores/2009_2/Veneno.pdf,"VENENO, O ",CURTA
+http://www.roteirista.com/concurso/vencedores/2005_2/Vespera.pdf,"VÉSPERA DE MORTOS",CURTA
+http://www.roteirista.com/concurso/vencedores/2009_8/O-vicio.pdf,"O  VÍCIO",CURTA
+http://www.roteirista.com/concurso/vencedores/2004_8/vidademinhoca.pdf,"VIDA DE MINHOCA",CURTA
+http://www.roteirista.com/concurso/vencedores/2009_8/vivencias.pdf,"VIVÊNCIAS",CURTA
+http://www.roteirista.com/concurso/vencedores/2007-11/Vizinho_do_202.pdf,"VIZINHO DO 202, O",CURTA
+http://www.roteirista.com/concurso/vencedores/2008_8/Voce_pode_dizer_as_horas.pdf,"VOCÊ PODE ME DIZER AS HORAS? ",CURTA
+http://www.roteirista.com/concurso/vencedores/2003_11/A_VOLTA_POR_CIMA.pdf,"VOLTA POR CIMA, A",CURTA
+http://www.roteirista.com/concurso/vencedores/2003_5/mh2.pdf,"ZERO",CURTA
+http://www.lgbcom.com.br/images/9minutos.pdf,"9 MINUTOS",CURTA
+http://www.triplov.com/leiradella/ClasseA/classeA.htm,"CLASSE A",CURTA
+http://www.iesb.br/grad/cinema_midia/arquivos/Conflito-JoseCampos-1-2008.pdf,"CONFLITO",CURTA
+http://www.ararazul.com.br/coracaodejesus/roteiro-coracao-de-jesus.pdf,"CORAÇÃO DE JESUS, O",CURTA
+http://www.oswaldcaravelas.com.br/comunicacao/2007/31-08-07/texto_prof.Adriano.pdf,"DESDITA",CURTA
+http://www.orbeproducoes.com.br/downloads/Entre_a_Cruz_e_a_Caldeira%28Roteiro%29.pdf,"ENTRE A CRUZ E A CALDEIRA",CURTA
+http://docs.google.com/View?docid=dc2fx444_4dn9r2zfc,"FRONTEIRA",CURTA
+http://www.usinadeletras.com.br/exibelotexto.php?cod=150&cat=Roteiro_de_Filme_ou_Novela&vinda=S,"GRANDE PRÊMIO, O",CURTA
+http://www.eufabrico.com/wp-content/uploads/2009/10/3_susana.pdf,"IGUAL  A TRÊS",CURTA
+http://www.usinadeletras.com.br/exibelotexto.php?cod=149&cat=Roteiro_de_Filme_ou_Novela&vinda=S,"LANDELL",CURTA
+http://www.veep.com.br/rot_nemtudo.htm,"NEM TUDO QUE É BRANCO É PÓ",CURTA
+http://www.webwritersbrasil.com.br/roteiros/olhos_infin.doc,"OLHOS INFINITOS ",CURTA
+http://joaonunes.com/wp-content/uploads/o-pedido-v2.pdf,"PEDIDO, O",CURTA
+http://www.nao-til.com.br/nao-60/pele-pet.htm,"PELE-PÉTALA",CURTA
+http://www.adrianaramos.com.br/roteiros/o_poeta_cego.pdf,"POETA CEGO, O",CURTA
+http://www.sergiovirgilio.com/quatro.pdf,"QUATRO",CURTA
+http://www.eufabrico.com/wp-content/uploads/2009/10/O-QUE-TEM-PRA-HOJE.pdf,"O  QUE TEM PRA HOJE",CURTA
+http://www.lgbcom.com.br/images/recomeco.pdf,"RECOMEÇO",CURTA
+http://www.lgbcom.com.br/images/roteiro.pdf,"ROTEIRO, O",CURTA
+http://www.iesb.br/grad/cinema_midia/arquivos/TerraVermelha_ErisCorreia_1_2008.pdf,"TERRA VERMELHA",CURTA
+http://triplov.com/leiradella/3-chopes/3chopes.htm,"TRÊS CHOPES",CURTA
